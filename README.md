@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-E-commerce de pizzas.
+Delivery de pizza.
 
 ---
 
