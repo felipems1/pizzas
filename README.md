@@ -1,29 +1,19 @@
-<h1 align="center"> Pizzas </h1>
+<h1 align="center">Pizzas</h1>
 
-<p align="center">
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>
-</p>
+<h3 align="center">Um e-commerce fictício de pizzas é uma plataforma virtual que simula a venda de pizzas pela internet.</h3>
 
-## 🔖 Layout
-
-<p align="center">
-  <video src="https://user-images.githubusercontent.com/111329429/227777588-a3b5081f-4c80-45e1-b718-5041acb3ebfd.mp4">
-</p>
-
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- JavaScript
-- HTML e CSS
-- Git e Github
-
-## 💻 Projeto
-
-E-commerce de pizzas.
+<div align="center">
+  <video src="./screen.mp4" alt="demonstração do projeto" >
+</div>
 
 ---
 
-[Link do meu perfil no Linkedin.](https://www.linkedin.com/in/felipe-moises-4a1b58248/)
+<h2>Tecnologias:</h2>
+
+- JavaScript
+- HTML
+- CSS
+
+---
+
+<p align="center">Projeto feito com ❤️ por <a href="https://www.linkedin.com/in/felipems1/">Felipe Moises</a></p>
